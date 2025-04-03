@@ -96,7 +96,7 @@ const Feedback = async ({ params }: RouteParams) => {
         <Button className="btn-secondary flex-1">
           <Link href="/" className="flex w-full justify-center">
             <p className="text-sm font-semibold text-primary-200 text-center">
-              Back to dashboard
+              Back to HomePage
             </p>
           </Link>
         </Button>
